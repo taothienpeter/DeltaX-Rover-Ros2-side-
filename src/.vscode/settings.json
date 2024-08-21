@@ -1,0 +1,16 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/taopeter/ros2_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/taopeter/ros2_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/taopeter/ros2_ws/install/py_pubsub/lib/python3.10/site-packages",
+        "/home/taopeter/ros2_ws/install/serial_motor_demo_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "cmake.sourceDirectory": "/home/taopeter/ros2_ws/src/serial_motor_demo_msgs"
+}
